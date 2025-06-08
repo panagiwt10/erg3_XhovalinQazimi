@@ -1,0 +1,101 @@
+,ID,adj.P.Val,P.Value,t,B,logFC,Gene.symbol,Gene.title
+0,7976496,3.78e-70,1.14e-74,-24.4,159.142735,-2.64,SERPINA3,serpin family A member 3
+1,8045291,1.48e-65,8.87e-70,-23.1,148.021408,-0.995,TUBA3D///TUBA3E///TUBA3C,tubulin alpha 3d///tubulin alpha 3e///tubulin alpha 3c
+2,7992987,9.56e-65,8.609999999999999e-69,-22.9,145.776792,-0.668,HMOX2,heme oxygenase 2
+3,8160168,2.02e-64,2.42e-68,22.7,144.754763,1.05,FREM1,FRAS1 related extracellular matrix 1
+4,7982204,1.66e-62,2.5000000000000003e-66,22.2,140.174633,0.704,HMGN2,high mobility group nucleosomal binding domain 2
+5,8000409,9.79e-62,1.76e-65,22.0,138.24381,0.701,HMGN2,high mobility group nucleosomal binding domain 2
+6,7914075,2.93e-58,6.15e-62,-21.0,130.181317,-1.79,FCN3,ficolin 3
+7,7989146,7.79e-58,1.87e-61,20.9,129.080907,1.06,MNS1,meiosis specific nuclear structural 1
+8,8123446,2.92e-56,7.889999999999999e-60,20.5,125.380872,1.19,SMOC2,SPARC related modular calcium binding 2
+9,8174119,4.33e-53,1.3e-56,19.6,118.055289,0.733,ZMAT1,zinc finger matrin-type 1
+10,7986092,1.56e-50,5.159999999999999e-54,-19.0,112.134299,-0.603,FURIN,"furin, paired basic amino acid cleaving enzyme"
+11,7923347,1.61e-50,5.82e-54,-19.0,112.016108,-0.669,LAD1,ladinin 1
+12,8162404,5.02e-50,1.96e-53,18.8,110.813436,1.0,ECM2,extracellular matrix protein 2
+13,8165277,4.36e-49,1.83e-52,-18.6,108.601162,-0.917,LCN6,lipocalin 6
+14,8074991,8.33e-49,3.75e-52,-18.5,107.893124,-0.83,GGT5,gamma-glutamyltransferase 5
+15,8156278,1.1899999999999999e-48,5.73e-52,-18.4,107.473406,-0.627,C9orf47///S1PR3,chromosome 9 open reading frame 47///sphingosine-1-phosphate receptor 3
+16,8063923,1.26e-48,6.439999999999999e-52,-18.4,107.358197,-1.36,SLCO4A1,solute carrier organic anion transporter family member 4A1
+17,8102532,1.3e-48,7.039999999999999e-52,18.4,107.270025,1.02,PDE5A,phosphodiesterase 5A
+18,7965403,6.28e-48,3.58e-51,18.2,105.660175,1.23,LUM,lumican
+19,8162394,3.01e-46,1.81e-49,17.8,101.777438,1.82,ASPN,asporin
+20,7931977,7.72e-46,4.87e-49,17.7,100.798934,0.811,ITIH5,inter-alpha-trypsin inhibitor heavy chain family member 5
+21,8126066,3.96e-45,2.6099999999999998e-48,-17.5,99.134651,-0.377,MTCH1,mitochondrial carrier 1
+22,8073449,6.31e-45,4.36e-48,-17.4,98.629378,-0.828,CSDC2,cold shock domain containing C2
+23,8057506,2.17e-44,1.57e-47,17.3,97.362487,1.36,FRZB,frizzled-related protein
+24,8146159,6.16e-44,4.620000000000001e-47,17.2,96.290827,0.5,AP3M2,adaptor related protein complex 3 mu 2 subunit
+25,8169115,8.12e-44,6.34e-47,17.1,95.977738,0.993,NRK,Nik related kinase
+26,8147516,8.45e-44,6.850000000000001e-47,17.1,95.901756,0.883,MATN2,matrilin 2
+27,7984813,8.9e-44,7.49e-47,17.1,95.81356,0.82,ISLR,immunoglobulin superfamily containing leucine rich repeat
+28,8044021,1.1e-43,9.590000000000001e-47,-17.1,95.568633,-1.76,IL1RL1,interleukin 1 receptor like 1
+29,8037614,1.41e-43,1.27e-46,-17.1,95.293282,-0.721,GPR4,G protein-coupled receptor 4
+30,7920552,1.54e-43,1.44e-46,17.0,95.167348,0.695,KCNN3,potassium calcium-activated channel subfamily N member 3
+31,8055194,1.6000000000000001e-43,1.54e-46,-17.0,95.098974,-0.858,TUBA3E,tubulin alpha 3e
+32,7980970,1.65e-43,1.64e-46,-17.0,95.040039,-0.412,ITPK1,inositol-tetrakisphosphate 1-kinase
+33,8123104,1.93e-43,1.97e-46,17.0,94.857627,1.03,FNDC1,fibronectin type III domain containing 1
+34,7959002,1.95e-43,2.04e-46,17.0,94.819061,0.721,SDSL,serine dehydratase like
+35,7952011,2.22e-43,2.3999999999999997e-46,17.0,94.659113,0.885,SCN2B,sodium voltage-gated channel beta subunit 2
+36,8068522,5.840000000000001e-43,6.4899999999999996e-46,16.9,93.6757,0.387,TTC3,tetratricopeptide repeat domain 3
+37,8143144,1.79e-42,2.04e-45,16.7,92.541389,0.998,PTN,pleiotrophin
+38,7960794,3.44e-42,4.03e-45,-16.7,91.868752,-1.52,CD163,CD163 molecule
+39,8139087,4.8999999999999994e-42,5.89e-45,16.6,91.492135,1.78,SFRP4,secreted frizzled related protein 4
+40,8134463,5.6799999999999996e-42,6.99e-45,-16.6,91.322412,-0.856,NPTX2,neuronal pentraxin 2
+41,7931097,6.459999999999999e-42,8.15e-45,16.6,91.171012,0.556,HTRA1,HtrA serine peptidase 1
+42,7996198,1.1099999999999999e-41,1.43e-44,16.5,90.61421,0.784,CCDC113,coiled-coil domain containing 113
+43,8066964,3.33e-41,4.39e-44,-16.4,89.502518,-0.375,TMEM189-UBE2V1///TMEM189///UBE2V1,TMEM189-UBE2V1 readthrough///transmembrane protein 189///ubiquitin conjugating enzyme E2 V1
+44,7929634,3.8299999999999997e-41,5.17e-44,-16.4,89.340998,-0.451,ZDHHC16,zinc finger DHHC-type containing 16
+45,7896730,6.27e-41,8.66e-44,16.3,88.830633,0.855,,
+46,7933750,1.24e-40,1.7500000000000002e-43,16.2,88.135195,0.873,SLC16A9,solute carrier family 16 member 9
+47,8092691,2.8299999999999997e-40,4.08e-43,-16.1,87.295516,-0.719,BCL6,B-cell CLL/lymphoma 6
+48,7985934,3.4599999999999997e-40,5.09e-43,-16.1,87.076521,-0.676,SEMA4B,semaphorin 4B
+49,7898328,3.69e-40,5.6000000000000004e-43,-16.1,86.981956,-0.301,SZRD1,SUZ RNA binding domain containing 1
+50,8097307,3.69e-40,5.64e-43,16.1,86.974936,0.394,INTU,inturned planar cell polarity protein
+51,8117458,3.91e-40,6.1e-43,16.1,86.898152,0.668,BTN3A1,butyrophilin subfamily 3 member A1
+52,8013191,5.85e-40,9.320000000000001e-43,-16.0,86.47886,-0.384,FLII,"FLII, actin remodeling protein"
+53,8000244,6.61e-40,1.07e-42,-16.0,86.340039,-0.574,USP31,ubiquitin specific peptidase 31
+54,7916747,7.62e-40,1.2599999999999999e-42,-16.0,86.18158,-0.295,JAK1,Janus kinase 1
+55,8092457,8.03e-40,1.3499999999999998e-42,-16.0,86.111447,-0.509,ALG3,"ALG3, alpha-1,3- mannosyltransferase"
+56,8173287,9.16e-40,1.57e-42,-16.0,85.963137,-1.3,VSIG4,V-set and immunoglobulin domain containing 4
+57,7934334,1.28e-39,2.24e-42,15.9,85.611657,0.488,CFAP70,cilia and flagella associated protein 70
+58,8091354,1.36e-39,2.41e-42,15.9,85.539607,0.543,HLTF,helicase like transcription factor
+59,8038347,1.53e-39,2.76e-42,-15.9,85.4024,-0.446,TEAD2,TEA domain transcription factor 2
+60,8114593,1.71e-39,3.1299999999999996e-42,15.9,85.279518,0.532,APBB3,amyloid beta precursor protein binding family B member 3
+61,8143879,1.71e-39,3.18e-42,-15.9,85.264605,-0.394,TMUB1,transmembrane and ubiquitin like domain containing 1
+62,8094184,2.36e-39,4.4699999999999995e-42,15.9,84.925919,0.612,C1QTNF7,C1q and tumor necrosis factor related protein 7
+63,8162373,3.4e-39,6.53e-42,15.8,84.550496,1.32,OGN,osteoglycin
+64,8075106,5.71e-39,1.12e-41,-15.8,84.02098,-0.415,TPST2,tyrosylprotein sulfotransferase 2
+65,7942123,7.11e-39,1.41e-41,15.7,83.789097,0.509,CCND1,cyclin D1
+66,7914489,1.22e-38,2.45e-41,-15.7,83.242407,-0.37,PTP4A2,"protein tyrosine phosphatase type IVA, member 2"
+67,8158431,2.9e-38,5.92e-41,-15.6,82.368855,-0.55,PHYHD1,phytanoyl-CoA dioxygenase domain containing 1
+68,7946454,3.72e-38,7.7e-41,15.5,82.108153,0.832,SCUBE2,"signal peptide, CUB domain and EGF like domain containing 2"
+69,7947681,3.96e-38,8.34e-41,15.5,82.029569,0.465,ARHGAP1,Rho GTPase activating protein 1
+70,8015607,4.11e-38,8.77e-41,-15.5,81.978859,-0.604,STAT3,signal transducer and activator of transcription 3
+71,8165271,6.52e-38,1.4099999999999999e-40,-15.5,81.509422,-0.584,LCN10,lipocalin 10
+72,8081503,1.2600000000000001e-37,2.75e-40,15.4,80.846368,0.553,DZIP3,DAZ interacting zinc finger protein 3
+73,8128394,1.31e-37,2.9199999999999997e-40,15.4,80.789415,0.335,PNISR,PNN interacting serine and arginine rich protein
+74,7965941,1.33e-37,2.9999999999999998e-40,15.4,80.762394,0.798,GLT8D2,glycosyltransferase 8 domain containing 2
+75,7902541,1.39e-37,3.17e-40,15.4,80.707023,1.12,IFI44L,interferon induced protein 44 like
+76,8088560,1.5900000000000002e-37,3.67e-40,-15.4,80.561811,-1.17,ADAMTS9,ADAM metallopeptidase with thrombospondin type 1 motif 9
+77,7973110,1.91e-37,4.4699999999999995e-40,-15.3,80.367155,-1.16,RNASE2,ribonuclease A family member 2
+78,8074261,2.9700000000000002e-37,7.05e-40,-15.3,79.915659,-0.444,BID,BH3 interacting domain death agonist
+79,7920409,3.7400000000000004e-37,8.99e-40,-15.3,79.674647,-0.361,JTB,jumping translocation breakpoint
+80,7935296,4.28e-37,1.04e-39,15.3,79.530049,0.951,TLL2,tolloid like 2
+81,8160670,4.69e-37,1.16e-39,-15.2,79.425914,-0.961,AQP3,aquaporin 3 (Gill blood group)
+82,7962058,5.1200000000000005e-37,1.28e-39,-15.2,79.32797,-0.567,TMTC1,transmembrane and tetratricopeptide repeat containing 1
+83,7955562,8.43e-37,2.1299999999999998e-39,-15.2,78.822219,-0.439,ACVRL1,activin A receptor like type 1
+84,7914015,1.3200000000000001e-36,3.4e-39,-15.1,78.358892,-0.797,FAM46B,family with sequence similarity 46 member B
+85,7977077,1.3200000000000001e-36,3.4e-39,-15.1,78.356933,-0.488,MARK3,microtubule affinity regulating kinase 3
+86,8087935,1.4e-36,3.66e-39,-15.1,78.284989,-0.604,NT5DC2,5'-nucleotidase domain containing 2
+87,7902425,1.7100000000000002e-36,4.51e-39,-15.1,78.077785,-0.644,ST6GALNAC3,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 3"
+88,7949808,2.03e-36,5.4299999999999997e-39,-15.1,77.893691,-0.467,PITPNM1,phosphatidylinositol transfer protein membrane associated 1
+89,8171248,2.26e-36,6.1e-39,15.1,77.778766,0.73,ANOS1,anosmin 1
+90,8010287,6.29e-36,1.72e-38,-14.9,76.753596,-0.994,C1QTNF1,C1q and tumor necrosis factor related protein 1
+91,8028872,6.44e-36,1.78e-38,14.9,76.719551,0.56,LTBP4,latent transforming growth factor beta binding protein 4
+92,8175924,7.420000000000001e-36,2.07e-38,-14.9,76.568201,-0.33,NAA10,"N(alpha)-acetyltransferase 10, NatA catalytic subunit"
+93,8147469,8.58e-36,2.42e-38,14.9,76.414354,0.461,CPQ,carboxypeptidase Q
+94,7951521,1.04e-35,2.98e-38,14.9,76.208732,0.417,C11orf65,chromosome 11 open reading frame 65
+95,7990269,1.1000000000000001e-35,3.18e-38,-14.9,76.144641,-0.722,C15orf59,chromosome 15 open reading frame 59
+96,7920401,1.18e-35,3.42e-38,-14.9,76.071041,-0.357,SLC39A1,solute carrier family 39 member 1
+97,8076137,1.92e-35,5.64e-38,-14.8,75.577638,-0.367,SUN2,Sad1 and UNC84 domain containing 2
+98,7904254,2.73e-35,8.12e-38,-14.8,75.216101,-0.519,ATP1A1,ATPase Na+/K+ transporting subunit alpha 1
+99,7977987,4.5e-35,1.35e-37,-14.7,74.71123,-1.58,MYH6,myosin heavy chain 6
